@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mustafaamarkhil" target="blank"><img src="https://img.shields.io/twitter/follow/mustafaamarkhil?logo=twitter&style=for-the-badge" alt="ravenravener" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ravener.now.sh](https://ravener.now.sh)
-
 - 📫 How to reach me **hayatzaimustafa@gmail.com**
 
 - ⚡ Fun fact **I think I am funny, Aren't I? ok let's move on**
@@ -17,9 +15,9 @@
 <p align="left">
     <a href="https://twitter.com/mustafaamarkhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ravenravener" height="30" width="40" /></a>
     <a href="https://discord.gg/mDkMbEh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mDkMbEh" height="30" width="40" /></a>
-    <a href="https://facebook.com/mustafa.hayatamarkhil.5"><img align="ceneter" src="facebook.svg" alt="Mustafa Hayat" height="30" width="40" /> </a>
-    <a href="https://facebook.com/mustafa.hayatamarkhil.5"><img align="ceneter" src="facebook.svg" alt="Mustafa Hayat" height="30" width="40" /> </a>
-    <a href="https://facebook.com/mustafa.hayatamarkhil.5"><img align="ceneter" src="facebook.svg" alt="Mustafa Hayat" height="30" width="40" /> </a>
+    <a href="https://facebook.com/mustafa.hayatamarkhil.5"><img align="ceneter" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mustafa Hayat" height="30" width="40" /> </a>
+    <a href="https://facebook.com/mustafa.hayatamarkhil.5"><img align="ceneter" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mustafa Hayat" height="30" width="40" /> </a>
+    <a href="https://facebook.com/mustafa.hayatamarkhil.5"><img align="ceneter" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mustafa Hayat" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
